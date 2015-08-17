@@ -1,0 +1,140 @@
+{
+	"roteiro":[
+	
+	{	
+		"tipo":"pe",
+		"nome":"Bairro do Recife",
+		"locais":["Praça do Marco Zero", "Rua do Bom Jesus", "Praça do Arsenal", "Rua do Apolo", "Cais da Alfândega", "Rua Madre de Deus","Rua da Moeda"],
+		"coordenadas":[[-8.063145, -34.871081],[-8.062168, -34.871415],[-8.061115, -34.871230],
+		[-8.061513, -34.872341], [-8.065223, -34.873998], [-8.065128, -34.873446], [-8.064642, -34.873119] ]
+		},{
+		
+		"tipo":"pe",
+		"nome":"Recife Barroco",
+		"locais":["Madre de Deus", "Capela Dourada", "Matriz de Santo Antônio", "Basílica do Carmo", "Pátio de São Pedro", "Encerramento no Pátio do Livramento"],
+		"coordenadas":[[-8.064229, -34.873653],[-8.062487, -34.877085],[-8.064308, -34.878791],[-8.066019, -34.879798],[-8.066969, -34.878939],[-8.066929, -34.877988]]
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Caminhos do Frei",
+		"locais":["Casa da Cultura", "rua Frei Caneca", "Pátio do Carmo", "Pátio do Terço","muro do espingardeamento do Frei"],
+		"coordenadas":[[-8.066139, -34.883245], [-8.064925, -34.881001],[-8.065989, -34.879479],[-8.069173, -34.880500],[-8.071828, -34.881504]]
+		
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Circuitos das Praças",
+		"locais":["Praça do Marco Zero","Praça da República","Praça 17", "Pracinha do Diário"],
+		"coordenadas":[[-8.063101, -34.871155],[-8.060949, -34.877310],[-8.065319, -34.876486],[-8.064242, -34.878052]]
+		
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Pátios das Igrejas",
+		"locais":["Pátios do Carmo", "Pátio do Livramento", "Pátio do Terço", "Pátio de São Pedro"],
+		"coordenadas":[[-8.065989, -34.879479], [-8.066926, -34.877989], [-8.069173, -34.880500], [-8.067013, -34.878949]  ]
+		
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Recife da Aurora",
+		"locais":["MAMAM", "SDS", "Teatro Arraial", "Assembleia Legislativa", "Ginásio Pernambucano", "Monumento Tortura Nunca Mais"],
+		"coordenadas":[[-8.061384, -34.881292], [-8.060172, -34.880676], [-8.059935, -34.880350], [-8.058556, -34.879552], [-8.058082, -34.879208], [-8.056440, -34.877733]]
+		
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Arquitetura eclética do Bairro do Recife",
+		"locais":["Praça do Marco Zero", "Avenida Marquês de Olinda", "Avenida Rio Branco"],
+		"coordenadas":[[-8.063101, -34.871155],[-8.063461, -34.872721],[-8.062646, -34.872857]]
+		
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Parque 13 de maio e arredores",
+		"locais":[" Parque 13 de maio", "Biblioteca Pública estadual", "Faculdade de Direito", "Câmara Municipal do Recife"],
+		"coordenadas":[[-8.056600, -34.881274],[-8.055993, -34.880733],[-8.058467, -34.882367],[-8.057534, -34.882421]]
+		
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Arruada pelo Centro",
+		"locais":["Praça Maciel Pinheiro", "Rua da Imperatriz", "Rua Nova","Duque de Caxias", "Avenida Nossa Senhora do Carmo"],
+		"coordenadas":[[-8.062398, -34.885716],[-8.062872, -34.884483],[-8.063972, -34.880554], [-8.064687, -34.877429],[-8.066187, -34.877286]]
+		
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Mercado São José e Pátio de São Pedro",
+		"locais":["Mercado de São José", "Basílica da Penha", "Pátio de São Pedro"],
+		"coordenadas":[[8.068457, -34.877709],[-8.068492, -34.878557],[-8.067013, -34.878946]]
+		
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Caminho do Imperador",
+		"locais":["Praça da República", "Rua do Imperador", " Restaurante Dom Pedro", "Praça 17"],
+		"coordenadas":[[-8.061052, -34.877517],[-8.063034, -34.876984],[-8.063792, -34.877153], [-8.065252, -34.876491]]
+		
+	
+		},{
+		
+		"tipo":"onibus",
+		"nome":"História do Protestantismo no Recife",
+		"locais":["Cemitério dos Ingleses", "Igreja Presbiteriana da Boa Vista", "Paróquia Luterana de Casa Amarela", "Catedral Anglicana", "Igreja Batista da Capunga", "Igreja Evangélica Pernambucana"],
+		"coordenadas":[[-8.047502, -34.876432],[-8.059195, -34.886095],[-8.026049, -34.911350],[-8.109213, -34.891614],[-8.052463, -34.894838],[-8.056623, -34.885948]]
+		
+	
+		},{
+		
+		"tipo":"onibus",
+		"nome":"Abelardo da Hora",
+		"locais":["Praça Euclides da Cunha", "Praça da República", "Rua da Aurora", "Largo das Cinco Pontas", "Parque 13 de maio"],
+		"coordenadas":[[-8.058347, -34.903619],[-8.060997, -34.877332],[-8.061315, -34.881154],[-8.071564, -34.879896],[-8.057052, -34.881508]]
+		
+	
+		},{
+		
+		"tipo":"barco",
+		"nome":"Rio Capibaribe e Suas Pontes",
+		"locais":["Ponte 12 de Setembro", "Ponte Mauricio de Nassau", "Ponte Manuel Buarque de Macedo", "Ponte Princesa Isabel", "Ponte Duarte Coelho"],
+		"coordenadas":[[-8.067147, -34.873906],[-8.063907, -34.875360],[-8.062053, -34.875097],[-8.059998, -34.879201],[-8.062287, -34.881106]]
+		
+	
+		},{
+		
+		"tipo":"bicicleta",
+		"nome":"Rua da Aurora e Boa Vista",
+		"locais":["Av. Marquês de Olinda", "Rua da Madre de Deus", "Ponte Maurício de Nassau", "Praça da República", "Rua do Imperador", "Ponte Duarte Coelho", "Rua da Aurora", "Parque 13 de Maio", "Rua do Hospício", "Praça Maciel Pinheiro", "Rua da Imperatriz", "Ponte da Boa Vista", "Rua Nova", "Rua 1º de Março", "Ponte Mauricio de Nassau", "Av. Marquês de Olinda","Marco Zero"],
+		"coordenadas":[[-8.063506, -34.872943],[-8.063896, -34.873630],[-8.063910, -34.875260],[-8.060996, -34.877302], [-8.063554, -34.876923],[-8.062549, -34.880737],[-8.062727, -34.882094],[-8.057423, -34.881499],[-8.060059, -34.883783],[-8.062408, -34.885718],[-8.062811, -34.884752],[-8.063630, -34.881825],[-8.063949, -34.880645],[-8.064251, -34.877162],[-8.063909, -34.875285],[-8.063503, -34.872940],[-8.063264, -34.871074] ]
+		
+	
+		},{
+		
+		"tipo":"bicicleta",
+		"nome":" Marco Zero – Boa Vista",
+		"locais":["Av. Marquês de Olinda", "Rua da Madre de Deus", "Ponte Maurício de Nassau", "Praça da República", "Rua do Imperador", "Ponte Duarte Coelho", "Rua da Aurora", "Parque 13 de Maio", "Rua do Hospício", "Praça Maciel Pinheiro", "Rua da Imperatriz", "Ponte da Boa Vista", "Rua Nova", "Rua 1º de Março", "Ponte Mauricio de Nassau", "Av. Marquês de Olinda","Marco Zero"],
+		"coordenadas":[[-8.063506, -34.872943],[-8.063896, -34.873630],[-8.063910, -34.875260],[-8.060996, -34.877302], [-8.063554, -34.876923],[-8.062549, -34.880737],[-8.062727, -34.882094],[-8.057423, -34.881499],[-8.060059, -34.883783],[-8.062408, -34.885718],[-8.062811, -34.884752],[-8.063630, -34.881825],[-8.063949, -34.880645],[-8.064251, -34.877162],[-8.063909, -34.875285],[-8.063503, -34.872940],[-8.063264, -34.871074] ]
+		
+		},{
+		
+		"tipo":"bicicleta",
+		"nome":" Frei Caneca",
+		"locais":["Casa da cultura", "rua Frei Caneca","Pátio do Carmo","rua do Imperador","Pátio do Terço","encerra no muro do espingardeamento do Frei"],
+		"coordenadas":[[-8.066111, -34.883345],[-8.065034, -34.880442],[-8.065930, -34.879393],[-8.064233, -34.876826],[-8.069225, -34.880512],[-8.071618, -34.881373] ]
+		
+		}
+		
+		
+	]
+
+}
